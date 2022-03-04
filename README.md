@@ -1,6 +1,5 @@
 <p align="center">
-    <a> <img src=.assets/logo.png></a>
-    
+   
     <i>This is work project</i>
     <i>Using git to control this project</i>
 	<hr>
