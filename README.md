@@ -12,6 +12,7 @@
     <br />
     <br />
     <i>This is work project</i>
+    <i>Using git to control this project</i>
 	<hr>
 </p>
 
