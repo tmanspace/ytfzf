@@ -8,18 +8,6 @@
 
 ---
 
-# Table Of Contents
-
-* [`Dependencies`](#Dependencies)
-* [`Install`](#Install)
-* [`Features`](#Features)
-* [`Examples`](#Examples)
-* [`Todo`](#Todo)
-* [`Bugs`](#Bugs)
-* [`Credits`](#Credits)
-
----
-
 # Dependencies
 
 There are only 2 required dependencies, however the rest require some configuration before you can replace them.
