@@ -1,7 +1,7 @@
 <p>
     <a> <img src=.assets/logo.png></a>
-    <i>A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl</i>
-	<hr>
+    <i>This is educational fork</i>
+    <hr>
     <i>Эта страница была захвачена бульбозавром</i>
 </p>
 
