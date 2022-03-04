@@ -1,15 +1,10 @@
 <p>
     <a> <img src=.assets/logo.png></a>
+
     <i>This is educational fork</i>
     <hr>
     <i>Эта страница была захвачена бульбозавром</i>
-</p>
 
-<h1 align="center">
-	This is a little showcase
-</h1>
-<p align="center">
-<img src=.assets/ytfzf.gif width="100%">
 </p>
 
 ---
